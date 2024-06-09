@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "rl_algorithm"
+version = "0.0.1"
+dependencies = [
+  "gymnasium",
+  "pre-commit"
+]
