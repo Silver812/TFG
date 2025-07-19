@@ -14,3 +14,5 @@ Plugins/GameFeatures/FiringRange/Source
 Información adicional
 ----
 Para más información, consultar los archivos `manual_usuario.pdf` y `manual_codigo.pdf` en la raíz del proyecto.
+
+![Diagrama](diagrama.png "Diagrama técnico")
